@@ -1,0 +1,6 @@
+C:\Users\gkam4141\Documents\GitHub\ExcelReader\ExcelReader\bin\Debug\XLSXReader.dll.config
+C:\Users\gkam4141\Documents\GitHub\ExcelReader\ExcelReader\bin\Debug\XLSXReader.dll
+C:\Users\gkam4141\Documents\GitHub\ExcelReader\ExcelReader\bin\Debug\XLSXReader.pdb
+C:\Users\gkam4141\Documents\GitHub\ExcelReader\ExcelReader\obj\Debug\XLSXReader.dll
+C:\Users\gkam4141\Documents\GitHub\ExcelReader\ExcelReader\obj\Debug\XLSXReader.pdb
+C:\Users\gkam4141\Documents\GitHub\ExcelReader\ExcelReader\obj\Debug\XLSXReader.csprojResolveAssemblyReference.cache
